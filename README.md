@@ -7,7 +7,7 @@
 使用说明：
 
 1 下载项目
-
+    添加special tokens文件
 2 下载预训练模型，https://huggingface.co/uer/gpt2-chinese-cluecorpussmall
 
 3 模型转换
